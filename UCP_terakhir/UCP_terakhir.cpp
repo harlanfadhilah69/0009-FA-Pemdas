@@ -74,5 +74,6 @@ class SNBP : public MasukUniversitas {
 };
 int main() {
 	// isi disini untuk fungsi main
+
 }
 	
